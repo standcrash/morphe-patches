@@ -624,11 +624,11 @@ La vostra clau API mai s'ha de compartir. Qualsevol persona amb accés a ella po
   <string name="morphe_vot_mymemory_quota_message_no_email">Heu utilitzat la quota de traducció gratuïta de MyMemory d\'avui (5.000 caràcters). Afegiu un correu electrònic de MyMemory a la configuració per augmentar el límit diari a 50.000 caràcters, o canvieu a un servei de traducció diferent</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Heu utilitzat la quota de traducció de MyMemory d\'avui (50.000 caràcters). Canvieu a un servei de traducció diferent o torneu-ho a intentar demà</string>
   <string name="morphe_vot_mymemory_error">La traducció de MyMemory ha fallat (estat %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Ampliar els comandos d\'arrossegament de Veure més tard</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Els comandos d\'arrossegament dels vídeos de Veure més tard són més fàcils d\'agafar</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Ocultar la barra de notificació d\'eliminació de Veure més tard</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">La confirmació no es mostra després d\'eliminar un vídeo de Veure més tard</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Ampliar els manejadors de descriptors de la llista de reproducció</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Els manejadors de descriptors de la llista de reproducció són més fàcils d\'agafar</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Ocultar la barra de notificacions d\'eliminació de la llista de reproducció</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">No es mostra la confirmació després d\'eliminar un vídeo d\'una llista de reproducció</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Habilitar la repetició del vídeo</string>
   <string name="morphe_do_not_remember_loop_video_title">No recordis el vídeo en bucle</string>

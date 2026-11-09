@@ -624,11 +624,7 @@ Tuyệt đối không được chia sẻ khoá API. Bởi vì, bất kỳ ai có
   <string name="morphe_vot_mymemory_quota_message_no_email">Bạn đã dùng hết hạn mức dịch miễn phí của MyMemory cho hôm nay (5.000 ký tự). Hãy thêm email MyMemory trong phần Cài đặt để nâng giới hạn hằng ngày lên 50.000 ký tự hoặc chuyển sang dịch vụ dịch khác</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Bạn đã dùng hết hạn mức dịch miễn phí của MyMemory cho hôm nay (5.000 ký tự). Hãy chuyển sang dịch vụ dịch khác hoặc thử lại vào ngày mai</string>
   <string name="morphe_vot_mymemory_error">Dịch qua MyMemory thất bại (trạng thái %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Mở rộng tay cầm kéo Xem sau</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Các tay cầm kéo của video Xem sau sẽ dễ nắm bắt hơn</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Ẩn thông báo xóa Xem sau</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Thông báo xác nhận sẽ không hiển thị sau khi một video bị xóa khỏi Xem sau</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Bật video lặp lại</string>
   <string name="morphe_do_not_remember_loop_video_title">Không ghi nhớ trạng thái lặp lại video</string>

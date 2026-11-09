@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Ви використали сьогоднішню безплатну квоту перекладу MyMemory (5 000 символів). Додайте електронну пошту MyMemory в налаштуваннях, щоб збільшити денний ліміт до 50 000 символів, або виберіть інший сервіс перекладу</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Ви використали сьогоднішню квоту перекладу MyMemory (50 000 символів). Виберіть інший сервіс перекладу або спробуйте знову завтра</string>
   <string name="morphe_vot_mymemory_error">Переклад через MyMemory не вдався (статус %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Розширити маркери перетягування в \"Дивитися пізніше\"</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">За маркери перетягування відео в \"Дивитися пізніше\" легше вхопитися</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Приховати повідомлення про видалення з \"Дивитися пізніше\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Підтвердження не показується після видалення відео з \"Дивитися пізніше\"</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Увімкнути повторення відео</string>
   <string name="morphe_do_not_remember_loop_video_title">Не запам\'ятовувати повтор відео</string>

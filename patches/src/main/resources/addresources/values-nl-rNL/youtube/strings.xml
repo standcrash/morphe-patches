@@ -624,11 +624,7 @@ Uw API-sleutel mag nooit worden gedeeld. Iedereen met toegang tot deze sleutel k
   <string name="morphe_vot_mymemory_quota_message_no_email">U heeft de gratis MyMemory-vertaling-quotum van vandaag bereikt (5.000 tekens). Voeg een MyMemory-e-mailadres toe in de instellingen om de dagelijkse limiet te verhogen tot 50.000 tekens, of schakel over naar een andere vertaaldienst</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">U heeft de MyMemory-vertaling-quotum van vandaag bereikt (50.000 tekens). Schakel over naar een andere vertaaldienst of probeer het morgen opnieuw</string>
   <string name="morphe_vot_mymemory_error">MyMemory-vertaling mislukt (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Sleepgrepen voor \'Later bekijken\' verbreden</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">De sleepgrepen van de video\'s in \'Later bekijken\' zijn makkelijker vast te pakken</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Snackbar voor verwijderen uit \'Later bekijken\' verbergen</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">De bevestiging wordt niet getoond nadat een video is verwijderd uit \'Later bekijken\'</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Loopvideo inschakelen</string>
   <string name="morphe_do_not_remember_loop_video_title">Loop video niet onthouden</string>

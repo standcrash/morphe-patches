@@ -624,11 +624,7 @@ Din API-nyckel ska aldrig delas. Alla som har åtkomst till den kan använda din
   <string name="morphe_vot_mymemory_quota_message_no_email">Du har använt dagens kostnadsfria MyMemory-översättningskvot (5 000 tecken). Lägg till en MyMemory-e-post i inställningarna för att höja den dagliga gränsen till 50 000 tecken, eller byt till en annan översättningstjänst</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Du har använt dagens MyMemory-översättningskvot (50 000 tecken). Byt till en annan översättningstjänst eller försök igen i morgon</string>
   <string name="morphe_vot_mymemory_error">MyMemory-översättningen misslyckades (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Bredda handtag för att dra och släppa i Se senare</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Handtagen för att dra och släppa videor i Se senare är lättare att greppa</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Dölj snackbar vid borttagning från Se senare</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Bekräftelsen visas inte efter att en video har tagits bort från Se senare</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Aktivera videoslinga</string>
   <string name="morphe_do_not_remember_loop_video_title">Kom inte ihåg loop-video</string>

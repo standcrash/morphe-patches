@@ -624,11 +624,7 @@ Váš API kľúč by sa nikdy nemal zdieľať. Každý, kto k nemu má prístup,
   <string name="morphe_vot_mymemory_quota_message_no_email">Použili ste dnešnú bezplatnú kvótu pre preklad MyMemory (5 000 znakov). Pridajte e-mailovú adresu MyMemory v nastaveniach, aby ste zvýšili denný limit na 50 000 znakov, alebo prepnite na inú prekladovú službu</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Použili ste dnešnú kvótu pre preklad MyMemory (50 000 znakov). Prepnite sa na inú prekladovú službu alebo skúste znova zajtra</string>
   <string name="morphe_vot_mymemory_error">Preklad MyMemory zlyhal (stav %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Rozšírenie úchopiek pre presun v zozname Pozrieť neskôr</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Úchopky pre presun videí v zozname Pozrieť neskôr sa dajú ľahšie uchopiť</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Skryť oznamovací panel o odstránení z Pozrieť neskôr</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Po odstránení videa zo zoznamu Pozrieť neskôr sa nezobrazí potvrdenie</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Povoliť opakovanie videa</string>
   <string name="morphe_do_not_remember_loop_video_title">Nezapamätať prehrávanie videa v slučke</string>

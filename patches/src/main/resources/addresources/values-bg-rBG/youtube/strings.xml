@@ -624,11 +624,11 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Използвахте дневната безплатна квота за превод на MyMemory (5000 знака). Добавете имейл адрес на MyMemory в настройките, за да увеличите дневния лимит до 50 000 знака, или превключете към друга услуга за превод</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Използвахте дневната квота за превод на MyMemory (50 000 знака). Превключете към друга услуга за превод или опитайте отново утре</string>
   <string name="morphe_vot_mymemory_error">MyMemory преводът не успя (състояние %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Разширяване на дръжките за плъзгане в \"Гледайте по-късно\"</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Дръжките за плъзгане на видеоклиповете в \"Гледайте по-късно\" са по-лесни за хващане</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Скриване на известието при премахване от \"Гледайте по-късно\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Потвърждението не се показва след премахване на видеоклип от \"Гледайте по-късно\"</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Разширяване на дръжките за плъзгане на плейлиста</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Дръжките за плъзгане на плейлиста се заграбват по-лесно</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Скриване на snackbar при премахване от плейлиста</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Потвърждението не се показва след премахване на видео от плейлиста</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Версията е фалшира</string>
   <string name="morphe_do_not_remember_loop_video_title">Не запомни цикъла на видеото</string>

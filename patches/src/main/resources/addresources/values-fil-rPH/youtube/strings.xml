@@ -624,11 +624,7 @@ Hindi dapat ibahagi ang iyong API key. Sinumang may access dito ay maaaring guma
   <string name="morphe_vot_mymemory_quota_message_no_email">Ginagamit mo na ang pang-araw-araw na libreng quota ng pagsasalin ng MyMemory (5,000 character). Magdagdag ng email ng MyMemory sa mga setting upang itaas ang pang-araw-araw na limitasyon sa 50,000 character, o lumipat sa ibang serbisyo ng pagsasalin</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Ginagamit mo na ang quota ng pagsasalin ng MyMemory ngayong araw (50,000 character). Lumipat sa ibang serbisyo ng pagsasalin o subukan muli bukas</string>
   <string name="morphe_vot_mymemory_error">Nabigo ang pagsasalin ng MyMemory (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Palawakin ang mga drag handle ng Panoorin mamaya</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Mas madaling hawakan ang mga drag handle ng mga video sa Panoorin mamaya</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Itago ang removal snackbar ng Panoorin mamaya</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Hindi ipapakita ang kumpirmasyon pagkatapos tanggalin ang isang video mula sa Panoorin mamaya</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">I-enable ang loop video</string>
   <string name="morphe_do_not_remember_loop_video_title">Huwag tandaan ang pag-uulit ng video</string>

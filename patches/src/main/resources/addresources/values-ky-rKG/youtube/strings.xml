@@ -624,11 +624,7 @@ OpenRouter.ai сайтын ачуу үчүн бул жерди басыңыз"</
   <string name="morphe_vot_mymemory_quota_message_no_email">Сиз бүгүнкү MyMemory акысыз которуу квотасын (5 000 белги) колдондуңуз. Күндүк лимитти 50 000 белгиге чейин жогорулатуу үчүн жөндөөлөргө MyMemory электрондук почтасын кошуңуз же башка которуу кызматына өтүңүз</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Сиз бүгүнкү MyMemory которуу квотасын (50 000 белги) колдондуңуз. Башка которуу кызматына өтүңүз же эртең кайра аракет кылып көрүңүз</string>
   <string name="morphe_vot_mymemory_error">MyMemory которуусу катачылык менен аяктады (статус %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\"Кийин көрүү\" сүйрөтүү туткаларын кеңейтүү</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\"Кийин көрүү\" видеолорунун сүйрөтүү туткаларын кармоо оңой</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\"Кийин көрүү\"дөн алып салуу жөнүндөснэкбарды жашыруу</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Видео \"Кийин көрүү\" тизмесинен алынгандан кийин ырастама көрсөтүлбөйт</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Видеону кайталоону күйгүзүү</string>
   <string name="morphe_do_not_remember_loop_video_title">Видеону кайталоону эстеп калбоо</string>

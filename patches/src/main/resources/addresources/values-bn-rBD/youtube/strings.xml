@@ -624,11 +624,11 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_vot_mymemory_quota_message_no_email">আজকের ফ্রি MyMemory অনুবাদ কোটা (৫,০০০ ক্যারেক্টার) শেষ হয়েছে। দৈনিক সীমা ৫০,০০০ ক্যারেক্টার করতে সেটিংসে একটি MyMemory ইমেইল যোগ করুন, অথবা অন্য কোনো অনুবাদ সার্ভিস বেছে নিন</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">আজকের MyMemory অনুবাদ কোটা (৫০,০০০ ক্যারেক্টার) শেষ হয়েছে। অন্য কোনো অনুবাদ সার্ভিস বেছে নিন অথবা আগামীকাল আবার চেষ্টা করুন</string>
   <string name="morphe_vot_mymemory_error">MyMemory অনুবাদ ব্যর্থ হয়েছে (স্ট্যাটাস %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\'পরে দেখুন\' ড্র্যাগ হ্যান্ডেলগুলো প্রশস্ত করুন</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\'পরে দেখুন\' ভিডিওগুলোর ড্র্যাগ হ্যান্ডেলগুলো ধরা এখন আরও সহজ</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\'পরে দেখুন\' থেকে সরানোর স্নাকবার হাইড করুন</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">\'পরে দেখুন\' থেকে কোনো ভিডিও সরিয়ে ফেলার পর আর নিশ্চিতকরণ মেসেজ দেখানো হবে না</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">প্লেলিস্ট ড্র্যাগ হ্যান্ডেলগুলো আরও প্রশস্ত করুন</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">প্লেলিস্ট ড্র্যাগ হ্যান্ডেলগুলো এখন ধরা আরও সহজ</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">প্লেলিস্ট রিমুভ্যাল স্নাকবার হাইড করুন</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">প্লেলিস্ট থেকে কোনো ভিডিও রিমুভ করার পর আর কনফার্মেশন দেখানো হবে না</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">লুপ ভিডিও সক্ষম করুন</string>
   <string name="morphe_do_not_remember_loop_video_title">লুপ ভিডিও মনে রাখবেন না</string>

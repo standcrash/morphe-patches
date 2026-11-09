@@ -624,11 +624,7 @@ Ufunguo wako wa API usishirikishwe kamwe. Mtu yeyote mwenye ufikiaji nao anaweza
   <string name="morphe_vot_mymemory_quota_message_no_email">Umetumia quota ya tafsiri ya bure ya MyMemory ya leo (herufi 5,000). Ongeza barua pepe ya MyMemory kwenye mipangilio ili kuongeza kikomo cha kila siku hadi herufi 50,000, au badilisha kwenda huduma nyingine ya tafsiri</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Umetumia quota ya tafsiri ya MyMemory ya leo (herufi 50,000). Badilisha kwenda huduma nyingine ya tafsiri au jaribu tena kesho</string>
   <string name="morphe_vot_mymemory_error">Tafsiri ya MyMemory imeshindwa (hali %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Panua vishikio vya kuburuta vya Tazama baadaye</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Vishikio vya kuburuta vya video za Tazama baadaye ni rahisi zaidi kuvishika</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Ficha snackbar ya kuondoa Tazama baadaye</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Uthibitisho hauonyeshwi baada ya video kuondolewa kwenye Tazama baadaye</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Washa mzunguko wa video</string>
   <string name="morphe_do_not_remember_loop_video_title">Usikumbuke video inayojirudia</string>

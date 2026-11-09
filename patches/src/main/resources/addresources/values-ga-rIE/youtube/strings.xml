@@ -624,11 +624,7 @@ Níor cheart d'eochair API a roinnt choíche. Is féidir le duine ar bith a bhfu
   <string name="morphe_vot_mymemory_quota_message_no_email">Tá cuóta aistriúcháin saor in aisce MyMemory (5,000 carachtar) úsáidte agat inniu. Cuir ríomhphost MyMemory leis sna socruithe chun an teorainn laethúil a ardú go 50,000 carachtar, nó aistrigh chuig seirbhís aistriúcháin eile.</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Tá cuóta aistriúcháin MyMemory (50,000 carachtar) úsáidte agat inniu. Athraigh chuig seirbhís aistriúcháin eile nó déan iarracht arís amárach.</string>
   <string name="morphe_vot_mymemory_error">Theip ar aistriúchán MyMemory (stádas %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Leathnaigh láimhseálacha tarraingthe Watch níos déanaí</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Tá sé níos éasca greim a fháil ar láimhseálacha tarraingthe na bhfíseán sa liosta Féach níos déanaí.</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Folaigh an barra fógra maidir le Féach níos déanaí a bhaint</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Ní thaispeántar an deimhniú tar éis físeán a bhaint as Féach níos déanaí.</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Cumasaigh físeán lúbtha</string>
   <string name="morphe_do_not_remember_loop_video_title">Ná cuir i gcuimhne físeán lúpa</string>

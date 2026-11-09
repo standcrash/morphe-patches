@@ -624,11 +624,7 @@ Vaš API ključ nikoli ne smete deliti. Kdorkoli, ki ima dostop do njega, lahko 
   <string name="morphe_vot_mymemory_quota_message_no_email">Uporabili ste današnjo brezplačno kvoto za prevod MyMemory (5.000 znakov). Dodajte e-poštni naslov MyMemory v nastavitvah, da povečate dnevno omejitev na 50.000 znakov, ali preklopite na drugo prevajalsko službo</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Uporabili ste današnjo kvoto za prevod MyMemory (50.000 znakov). Preklopite na drugo prevajalsko službo ali poskusite znova jutri</string>
   <string name="morphe_vot_mymemory_error">Napaka pri prevajanju MyMemory (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Razširitev ročic za vlečenje v seznamu Glej pozneje</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Ročice za vlečenje videoposnetkov v seznamu Glej pozneje so lažje za prijemanje</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Skrivanje obvestila o odstranitvi iz seznama Glej pozneje</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Potrditev se ne prikaže, ko je videoposnetek odstranjen iz seznama Glej pozneje</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Omogoči zanko videa</string>
   <string name="morphe_do_not_remember_loop_video_title">Ne zapomni ponavljajoæi videoposnetek</string>

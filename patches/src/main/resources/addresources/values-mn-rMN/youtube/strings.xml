@@ -624,11 +624,7 @@ OpenRouter.ai сайтыг нээхээр энд дарна уу"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Та өнөөдрийн MyMemory-ийн үнэгүй орчуулгын квот (5,000 тэмдэгт)-ыг ашиглан дуусгалаа. Өдрийн хязгаарыг 50,000 тэмдэгт болгож нэмэгдүүлэхийн тулд тохиргоонд MyMemory-ийн имэйл хаягаа нэмэх, эсвэл өөр орчуулгын үйлчилгээ рүү шилжээрэй</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Та өнөөдрийн MyMemory-ийн орчуулгын квот (50,000 тэмдэгт)-ыг ашиглан дуусгалаа. Өөр орчуулгын үйлчилгээ рүү шилжих эсвэл маргааш дахин оролдоно уу</string>
   <string name="morphe_vot_mymemory_error">MyMemory орчуулга амжилтгүй боллоо (төлөв %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\"Дараа үзэх\" чирж зөөх бариултыг өргөсгөх</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\"Дараа үзэх\" видеонуудын чирж зөөх бариултыг барихад хялбар болсон</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\"Дараа үзэх\"-ээс устгасны мэдэгдлийг нуух</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Видеог \"Дараа үзэх\" жагсаалтаас устгасны дараа баталгаажуулалт харагдахгүй</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Видеог давтаж тоглуулахыг идэвхжүүлэх</string>
   <string name="morphe_do_not_remember_loop_video_title">Видео давталтыг санаагүй</string>

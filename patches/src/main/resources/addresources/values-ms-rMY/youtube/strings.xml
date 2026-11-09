@@ -624,11 +624,7 @@ Kunci API anda tidak seharusnya dikongsi. Sesiapa yang mempunyai akses kepadanya
   <string name="morphe_vot_mymemory_quota_message_no_email">Anda telah menggunakan kuota terjemahan percuma MyMemory hari ini (5,000 aksara). Tambah e-mel MyMemory dalam tetapan untuk meningkatkan had harian kepada 50,000 aksara, atau tukar ke perkhidmatan terjemahan yang lain</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Anda telah menggunakan kuota terjemahan MyMemory hari ini (50,000 aksara). Tukar ke perkhidmatan terjemahan yang lain atau cuba lagi esok</string>
   <string name="morphe_vot_mymemory_error">Terjemahan MyMemory gagal (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Luaskan pemegang seret Tonton kemudian</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Pemegang seret video Tonton kemudian lebih mudah untuk dicapai</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Sembunyikan snackbar pembuangan Tonton kemudian</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Pengesahan tidak ditunjukkan selepas video dialih keluar daripada Tonton kemudian</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Dayakan gelung video</string>
   <string name="morphe_do_not_remember_loop_video_title">Jangan ingat video gelung</string>

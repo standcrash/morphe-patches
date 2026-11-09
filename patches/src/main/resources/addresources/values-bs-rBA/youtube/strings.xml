@@ -624,11 +624,11 @@ Vaš API ključ nikada ne smije biti podijeljen. Svako ko ima pristup njemu mož
   <string name="morphe_vot_mymemory_quota_message_no_email">Iskoristili ste današnju besplatnu MyMemory kvotu za prevod (5.000 znakova). Dodajte MyMemory e-mail u postavkama kako biste povećali dnevni limit na 50.000 znakova, ili prebacite na drugu uslugu prevoda</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Iskoristili ste današnju MyMemory kvotu za prevod (50.000 znakova). Prebacite na drugu uslugu prevoda ili pokušajte ponovo sutra</string>
   <string name="morphe_vot_mymemory_error">Prevod MyMemory-ja nije uspio (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Proširite ručke za prevlačenje u Gledaj kasnije</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Ručke za prevlačenje videa u Gledaj kasnije su lakše za hvatanje</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Sakrij snackbar za uklanjanje iz Gledaj kasnije</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Potvrda se ne prikazuje nakon što video bude uklonjen iz Gledaj kasnije</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Proširite ručke za prevlačenje liste pjesama</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Ručke za prevlačenje liste pjesama su lakše za hvatanje</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Sakrij snackbar za uklanjanje liste pjesama</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Potvrda se ne prikazuje nakon što je video uklonjen iz liste pjesama</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Omogući ponavljanje videa</string>
   <string name="morphe_do_not_remember_loop_video_title">Ne zapamti ponavljanje videa</string>

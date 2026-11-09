@@ -625,11 +625,7 @@ APIキーは決して共有しないでください。アクセス権を持つ�
   <string name="morphe_vot_mymemory_quota_message_no_email">今日の無料MyMemory翻訳枠（5,000文字）を超えました。設定でMyMemoryのEメールアドレスを追加して、毎日の制限を50,000文字に増やすか、別の翻訳サービスに切り替えてください</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">今日のMyMemory翻訳枠（50,000文字）を超えました。別の翻訳サービスに切り替え、または明日もう一度お試しください</string>
   <string name="morphe_vot_mymemory_error">MyMemory が翻訳に失敗しました (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">「後で見る」のドラッグハンドルを広げる</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">「後で見る」ビデオのドラッグハンドルを掴みやすくなります</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">「後で見る」削除スナックバーを非表示にする</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">「後で見る」から動画を削除した後に確認メッセージが表示されなくなります</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">動画のループ再生を有効化</string>
   <string name="morphe_do_not_remember_loop_video_title">「動画のループ再生」を保存しない</string>

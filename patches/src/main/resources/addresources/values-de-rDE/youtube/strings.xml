@@ -625,11 +625,7 @@ Ein API-Key sollte niemals weitergegeben werden! Jeder mit Zugriff darauf kann d
   <string name="morphe_vot_mymemory_quota_message_no_email">Du hast dein tägliches kostenloses Übersetzungskontingent für MyMemory (5.000 Zeichen) verbraucht. Füge eine MyMemory registrierte E-Mail-Adresse in den Einstellungen hinzu, um das tägliche Limit auf 50.000 Zeichen zu erhöhen oder wechsel zu einem anderen Übersetzungsdienst</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Sie haben heute Ihr MyMemory-Übersetzungskontingent (50.000 Zeichen) verbraucht. Wechseln Sie zu einem anderen Übersetzungsdienst oder versuchen Sie es morgen erneut</string>
   <string name="morphe_vot_mymemory_error">Übersetzung mit MyMemory fehlgeschlagen (Status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Drag-Handles von „Später ansehen“ verbreitern</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Die Drag-Handles der „Später ansehen“-Videos lassen sich leichter greifen</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Snackbar beim Entfernen aus \"Später ansehen\" ausblenden</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Die Bestätigung wird nicht angezeigt, nachdem ein Video aus \"Später ansehen\" entfernt wurde</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Videowiederholung aktivieren</string>
   <string name="morphe_do_not_remember_loop_video_title">Schleifenwiedergabe nicht merken</string>

@@ -624,11 +624,11 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Դուք օգտագործել եք MyMemory-ի թարգմանության այսօրվա անվճար քվոտան (5,000 նիշ): Ավելացրեք MyMemory-ի էլ. հասցեն կարգավորումներում՝ օրական սահմանը բարձրացնելու համար մինչև 50,000 նիշ, կամ անցեք այլ թարգմանչական ծառայության</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Դուք օգտագործել եք MyMemory-ի թարգմանության այսօրվա քվոտան (50,000 նիշ): Անցեք այլ թարգմանչական ծառայության կամ փորձեք նորից վաղը</string>
   <string name="morphe_vot_mymemory_error">MyMemory-ի թարգմանությունը ձախացավ (կարգավիճակ %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Լայնացնել «Դիտել ավելի ուշ»-ի տեղափոխման բռնակները</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">«Դիտել ավելի ուշ» տեսանյութերի տեղափոխման բռնակները ավելի հեշտ է բռնել</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Թաքցնել «Դիտել ավելի ուշ»-ից հեռացման ծանուցումը</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Հաստատումը չի ցուցադրվի տեսանյութը «Դիտել ավելի ուշ»-ից հեռացնելուց հետո</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Լայնացնելվարցուցակի քարփակման բռնակները</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Վարցուցակի քարփակման բռնակները ավելի հեշտ է բռնել</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Թաքցնել վարցուցակից հեռացման snackbar-ը</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Տեսանյութը վարցուցակից հեռացնելուց հետո հաստատումը չի ցուցադրվի</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Միացնել տեսանյութի կրկնությունը</string>
   <string name="morphe_do_not_remember_loop_video_title">Չհիշել տեսանյութի կրկնությունը</string>

@@ -624,11 +624,11 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">您已用完今天的免費 MyMemory 翻譯額度 (5,000 個字元)。在設定中新增 MyMemory 電子郵件地址，將每日額度提高到 50,000 個字元，或切換至其他翻譯服務</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">您已用完今天的 MyMemory 翻譯額度 (50,000 個字元)。切換至其他翻譯服務或明天再試</string>
   <string name="morphe_vot_mymemory_error">MyMemory 翻譯失敗 (狀態 %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">加寬「稍後觀看」拖曳控制項</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">「稍後觀看」影片的拖曳控制項將更容易抓取</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">隱藏「稍後觀看」移除提示欄</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">從「稍後觀看」移除影片後將不再顯示確認提示</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">加寬播放清單拖曳控制項</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">播放清單拖曳控制項更容易抓取</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">隱藏播放清單移除提示欄</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">從播放清單移除影片後不再顯示確認提示</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">啟用循環播放影片</string>
   <string name="morphe_do_not_remember_loop_video_title">記住循環播放影片</string>

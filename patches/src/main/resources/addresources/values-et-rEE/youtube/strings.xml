@@ -624,11 +624,7 @@ Teie API võtit ei tohi kunagi jagada. Kõik, kellel on sellele juurdepääs, sa
   <string name="morphe_vot_mymemory_quota_message_no_email">Olete kasutanud tänase tasuta MyMemory tõlkekvooti (5000 märki). Lisage seadetesse MyMemory e-posti aadress, et tõsta päevast piirangut 50 000 märgile, või lülitage teisele tõlke teenusele</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Olete kasutanud tänast MyMemory tõlkekvooti (50 000 märki). Vaheldage tõlketeenust või proovige homme uuesti</string>
   <string name="morphe_vot_mymemory_error">MyMemory tõlge ebaõnnestus (staatus %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Laienda funktsiooni Vaata hiljem lohistamiskäepidemeid</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Vaata hiljem videode lohistamiskäepidemetest on lihtsam kinni haarata</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Peida Vaata hiljem eemaldamise teavitusriba</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Kinnitust ei kuvata pärast video eemaldamist loendist Vaata hiljem</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Luba videolupp</string>
   <string name="morphe_do_not_remember_loop_video_title">Ära mäleta videoluppi</string>

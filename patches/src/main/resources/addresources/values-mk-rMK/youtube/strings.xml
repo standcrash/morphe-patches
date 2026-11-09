@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Ја искористивте денешната бесплатна квота за превод на MyMemory (5.000 карактери). Додадете е-пошта за MyMemory во поставките за да го зголемите дневниот лимит на 50.000 карактери, или сменете ја услугата за превод</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Ја искористивте денешната квота за превод на MyMemory (50.000 карактери). Сменете ја услугата за превод или обидете се повторно утре</string>
   <string name="morphe_vot_mymemory_error">Преводот преку MyMemory не успеа (статус %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Проширење на рачките за влечење на „Гледај подоцна“</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Рачките за влечење на видеата во „Гледај подоцна“ се полесни за фаќање</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Скриј го snackbar-от за отстранување од „Гледај подоцна“</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Потврдата не се прикажува откако видеото е отстрането од „Гледај подоцна“</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Вклучи повторување на видеото</string>
   <string name="morphe_do_not_remember_loop_video_title">Не се сеќавам видео во повторување</string>

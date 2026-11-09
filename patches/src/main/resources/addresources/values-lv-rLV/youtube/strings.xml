@@ -624,11 +624,7 @@ Jūsu API atslēgu nedrīkst nekad kopīgot. Ikvaiens, kuram ir piekļuve tai, v
   <string name="morphe_vot_mymemory_quota_message_no_email">Jūs izmantojāt šodienas MyMemory bezmaksas tulkošanas kvotu (5 000 rakstzīmes). Pievienojiet MyMemory e-pastu iestatījumos, lai palielitu dienas limitu līdz 50 000 rakstzīmēm, vai pārslēdzieties uz citu tulkošanas pakalpojumu</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Jūs izmantojāt šodienas MyMemory tulkošanas kvotu (50 000 rakstzīmes). Pārslēdzieties uz citu tulkošanas pakalpojumu vai mēģiniet vēlreiz rītdien</string>
   <string name="morphe_vot_mymemory_error">MyMemory tulkošana neizdevās (statuss %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Paplašināt \"Skatīt vēlāk\" velšanas rokturi</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\"Skatīt vēlāk\" video velšanas rokturi ir vieglāk satverti</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Slēpt \"Skatīt vēlāk\"dzēšanas paziņojumu</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Apstiprinājums netiek rādīts pēc video dzēšanas no saraksta \"Skatīt vēlāk\"</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Iespēgt video atkārtošanu</string>
   <string name="morphe_do_not_remember_loop_video_title">Neatcerēties video atkārtošanos</string>

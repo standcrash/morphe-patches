@@ -624,11 +624,7 @@ OpenRouter.ai उघडण्यासाठी येथे टॅप करा
   <string name="morphe_vot_mymemory_quota_message_no_email">तुम्ही आजचे विनामूल्य MyMemory भाषांतर कोटा (5,000 वर्ण) वापरले आहे. दररोजची मर्यादा 50,000 वर्णांपर्यंत वाढवण्यासाठी सेटिंग्जमध्ये MyMemory ईमेल जोडा, किंवा भिन्न भाषांतर सेवा स्विच करा</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">तुम्ही आजचे MyMemory भाषांतर कोटा (50,000 वर्ण) वापरले आहे. भिन्न भाषांतर सेवा स्विच करा किंवा उद्या पुन्हा प्रयत्न करा</string>
   <string name="morphe_vot_mymemory_error">MyMemory भाषांतर अयशस्वी झाले (स्थिती %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\'नंतर पहा\' ड्रॅग हँडल्स रुंद करा</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\'नंतर पहा\' व्हिडिओंचे ड्रॅग हँडल्स पकडणे आता अधिक सोपे झाले आहे</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\'नंतर पहा\' मधून काढल्याचा स्नॅackbar लपवा</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">व्हिडिओ \'नंतर पहा\' मधून काढल्यानंतर पुष्टीकरण दाखवले जात नाही</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">व्हिडिओ लूप करा</string>
   <string name="morphe_do_not_remember_loop_video_title">लूप व्हिडिओ लक्षात ठेवू नका</string>

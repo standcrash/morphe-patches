@@ -624,11 +624,11 @@ OpenRouter.ai খুলিবলৈ ইয়াত টিপক"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">আপুনি আজিৰ বিনামূলীয়া MyMemory অনুবাদৰ কোটা (৫,০০০ আখৰ) ব্যৱহাৰ কৰিছে। দৈনিক সীমা ৫০,০০০ আখৰলৈ বৃদ্ধি কৰিবলৈ ছেটিংছত এটা MyMemory ইমেইল যোগ কৰক, অথবা অন্য এটা অনুবাদ সেৱালৈ পৰিৱৰ্তন কৰক</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">আপুনি আজিৰ MyMemory অনুবাদৰ কোটা (৫০,০০০ আখৰ) ব্যৱহাৰ কৰিছে। অন্য এটা অনুবাদ সেৱালৈ পৰিৱৰ্তন কৰক অথবা কাইলৈ পুনৰ চেষ্টা কৰক</string>
   <string name="morphe_vot_mymemory_error">MyMemory অনুবাদ বিফল হৈছে (স্থিতি %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\'ৰৈ চাব\'ৰ ড্ৰেগ হেণ্ডেলবোৰ বহল কৰক</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\'ৰৈ চাব\' ভিডিঅ’ৰ ড্ৰেগ হেণ্ডেলবোৰ ধৰিবলৈ অধিক সহজ</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\'ৰৈ চাব\'ৰ পৰা আঁতৰোৱাৰ স্নাকবাৰটো লুকুৱাই ৰাখক</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">\'ৰৈ চাব\'ৰ পৰা এটা ভিডিঅ’ আঁতৰোৱাৰ পিছত কোনো নিশ্চিতকৰণ দেখুৱাব নোলাব</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">প্লেলিষ্টৰ ড্ৰেগ হেণ্ডেলসমূহ বহল কৰক</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">প্লেলিষ্টৰ ড্ৰেগ হেণ্ডেলসমূহ ধৰিবলৈ অধিক সহজ হৈছে</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">প্লেলিষ্টৰ পৰা আঁতৰ কৰাৰ স্নেকবাৰটো লুকুৱাই ৰাখক</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">প্লেলিষ্টৰ পৰা এটা ভিডিঅ\' আঁতৰ কৰাৰ পিছত নিশ্চিতকৰণটো দেখুওৱা নহয়</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">লুপ ভিডিঅ\' সক্ৰিয় কৰক</string>
   <string name="morphe_do_not_remember_loop_video_title">লুপ ভিডিঅ\' মনত নাৰাখিব</string>

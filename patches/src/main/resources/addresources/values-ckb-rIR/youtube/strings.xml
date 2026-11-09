@@ -625,11 +625,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">کۆتای کوتای وەرگێڕانی بێبەرامبەری MyMemory بۆ ئەمڕۆت بەکارهێناوە (٥,٠٠٠ پیت). ئیمەیڵێکی MyMemory لە ڕێکخستنەکاندا زیاد بکە بۆ ئەوەی سێنووری ڕۆژانە زیاد بکرێت بۆ ٥٠,٠٠٠ پیت، یان بگۆڕە بۆ خزمەتگوزاری وەرگێڕانێکی تر</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">کۆتای کوتای وەرگێڕانی MyMemory بۆ ئەمڕۆت بەکارهێناوە (٥٠,٠٠٠ پیت). بگۆڕە بۆ خزمەتگوزاری وەرگێڕانێکی تر یان سبەینە دووبارە تاقی بکەرەوە</string>
   <string name="morphe_vot_mymemory_error">وەرگێڕانی MyMemory شکست هێنا (ستاتوسی %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">پەوڵەگرکانی ڕاکێشانی \"دواتر بینین\" پانتر بکە</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">پەوڵەگرکانی ڕاکێشانی ڤیدیۆکانی \"دواتر بینین\" ئاسانترن بۆ گرتن</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">شاردنەوەی ئاگادارکەرەوەی لادانی \"دواتر بینین\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">پشتڕاستکردنەوەکە نیشان نادرێت دوای ئەوەی ڤیدیۆیەک لە \"دواتر بینین\" لادەبرێت</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">ڤیدیۆ دوبارەبوونەوە چالاک بکە</string>
   <string name="morphe_do_not_remember_loop_video_title">دووبارەبوونەوەی ڤیدیۆکە به یاد مەهێنە</string>

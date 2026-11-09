@@ -622,11 +622,7 @@ Sizning API kalitingiz hech kim bilan baham ko'rilmasligi kerak. Uni kirish huqu
   <string name="morphe_vot_mymemory_quota_message_no_email">Siz bugungi kungi MyMemory tarjima kvotasini (5000 ta belgilar) ishlatdingiz. Kunlik limitni 50 000 gacha oshirish uchun sozlamalarda MyMemory elektron pochta manzilini kiriting yoki boshqa tarjima xizmatidan foydalaning.</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Siz MyMemory tarjima kvotasini (50 000 ta belgilar) ishlatdingiz. Boshqa tarjima xizmatidan foydalaning yoki ertaga urinib koʻring.</string>
   <string name="morphe_vot_mymemory_error">MyMemory tarjimasi muvaffaqiyatsiz (holat %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\"Keyinroq ko\'rish\" suratlarini kengaytirish</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\"Keyinroq ko\'rish\" videolarining suratlarini ushlash osonroq</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\"Keyinroq ko\'rish\"dan olib tashlash haqidagi xabarni yashirish</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Video \"Keyinroq ko\'rish\" ro\'yxatidan olib tashlangandan so\'ng tasdiqlash xabari ko\'rsatilmaydi</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Videoni aylantirishni yoqish</string>
   <string name="morphe_do_not_remember_loop_video_title">Video takrorlashni eslamang</string>

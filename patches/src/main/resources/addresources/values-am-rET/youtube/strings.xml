@@ -624,11 +624,11 @@ OpenRouter.aiን ለመክፈት እዚህ ይጫኑ"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">የዛሬውን ነፃ የ MyMemory ትርጉም ኮታ (5,000 ቁምፊዎች) ተጠቅመዋል። የዕለት ገደቡን ወደ 50,000 ቁምፊዎች ለማሳደግ በቅንብሮች ውስጥ የ MyMemory ኢሜይል ያክሉ፣ ወይም ወደ ሌላ የትርጉም አገልግሎት ይቀይሩ</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">የዛሬውን የ MyMemory ትርጉም ኮታ (50,000 ቁምፊዎች) ተጠቅመዋል። ወደ ሌላ የትርጉም አገልግሎት ይቀይሩ ወይም ነገ እንደገና ይሞክሩ</string>
   <string name="morphe_vot_mymemory_error">የMyMemory ትርጉም አልተሳካም (ሁኔታ %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">የ\'በኋላ እይ\' የመጎተት አያያዦችን አስፋ</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">የ\'በኋላ እይ\' ቪዲዮዎች የመጎተቻ አያያዦች በቀላሉ ለመያዝ ይመቻሉ</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">የ\'በኋላ እይ\' ማስወገጃ snackbarን ደብቅ</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">ቪዲዮ ከ\'በኋላ እይ\' ከተሰረዘ በኋላ ማረጋገጫ አይታይም</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">የየመጫወቻ ዝርዝር መጎትቻዎችን አፍጥጥ</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">የየመጫወቻ ዝርዝር መጎትቻዎችን ለመያዝ ቀላል ነው</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">የየመጫወቻ ዝርዝር ማስወገጃ ስናክባርን ደብቅ</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">ቪዲዮ ከመጫወቻ ዝርዝር ውስጥ ከተወገደ በኋላ ማረጋገጫ አይታይም</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">ቪዲዮን ደጋግሞ ማጫወት አብራ</string>
   <string name="morphe_do_not_remember_loop_video_title">ቪዲዮን መድገምን አትያዝ</string>

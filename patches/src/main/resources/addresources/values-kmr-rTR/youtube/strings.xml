@@ -624,11 +624,7 @@ Divê anahtara we ne were parve kirin. Kesê ku bigihe wê dikare bikar bîne kr
   <string name="morphe_vot_mymemory_quota_message_no_email">Hêj we bikar hînê kotaya wergerê ya belaş a MyMemory-yê ya roja îro (5,000 karakteran). Zêde bike e-maila we ya MyMemory-yê li ser mîhengên da zêde bike sînorê rojane berbi 50,000 karakteran, an guhêrîne dabînkerê wergerê din</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Hêj we bikar hînê kotaya wergerê ya MyMemory-yê (50,000 karakteran). Guhêrîne dabînkerê wergerê din an bicerîbîne dîsa yarîn</string>
   <string name="morphe_vot_mymemory_error">Wergera MyMemory çê bû (hewl %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Berfirehkirina desteyên kişandina \'Paşê temaşe bike\'</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Desteyên kişandina vîdyoyên \'Paşê temaşe bike\' hêsantir tên girtin</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Vewşandina snackbara rakirina \'Paşê temaşe bike\'</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Piştî ku vîdyoyek ji \'Paşê temaşe bike\' tê rakirin, piştrastkirin nayê nîşandan</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Çalak bikin loop vîdyoyê</string>
   <string name="morphe_do_not_remember_loop_video_title">Vîdeoya dawî kirinê ji bîr neke</string>

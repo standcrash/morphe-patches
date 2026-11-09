@@ -624,11 +624,7 @@ Jūsų API raktas niekada neturėtų būti dalijamas. Kiekvienas, turintis priei
   <string name="morphe_vot_mymemory_quota_message_no_email">Išnaudojote šios dienos nemokamą „MyMemory“ vertimo limitą (5 000 simbolių). Pridėkite „MyMemory“ el. paštą nustatymuose, kad dienos limitas padidėtų iki 50 000 simbolių, arba pasirinkite kitą vertimo paslaugą</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Išnaudojote šios dienos „MyMemory“ vertimo limitą (50 000 simbolių). Pasirinkite kitą vertimo paslaugą arba bandykite dar kartą rytoj</string>
   <string name="morphe_vot_mymemory_error">„MyMemory“ vertimas nepavyko (būsena %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Pleisti „Žiūrėti vėliau“ pertraukimo rankeneles</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">„Žiūrėti vėliau“ vaizdo įrašų pertraukimo rankeneles lengviau suglaudyti</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Slėpti „Žiūrėti vėliau“ pašalinimo pranešimą</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Pašalinus vaizdo įrašą iš sąrašo „Žiūrėti vėliau“, patvirtinimas nerodyjamas</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Įjungti vaizdo įrašo kartojimą</string>
   <string name="morphe_do_not_remember_loop_video_title">Neįsiminti vaizdo įrašo kartojimo</string>

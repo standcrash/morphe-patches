@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">คุณใช้โควต้าการแปล MyMemory ฟรีสำหรับวันนี้แล้ว (5,000 ตัวอักษร) เพิ่มอีเมล MyMemory ในการตั้งค่าเพื่อเพิ่มขีดจำกัดรายวันเป็น 50,000 ตัวอักษร หรือเปลี่ยนไปใช้บริการแปลอื่น</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">คุณใช้โควต้าการแปล MyMemory สำหรับวันนี้แล้ว (50,000 ตัวอักษร) เปลี่ยนไปใช้บริการแปลอื่นหรือลองใหม่อีกครั้งในวันพรุ่งนี้</string>
   <string name="morphe_vot_mymemory_error">การแปล MyMemory ล้มเหลว (สถานะ %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">ขยายที่จับสำหรับลาก \'ดูภายหลัง\' ให้กว้างขึ้น</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">ที่จับสำหรับลากวิดีโอใน \"ดูภายหลัง\" สามารถจับได้ง่ายขึ้น</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">ซ่อนแถบแจ้งเตือนชั่วคราวการนำวิดีโอออกจากดูภายหลัง</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">จะไม่มีการแสดงการยืนยันหลังจากนำวิดีโอออกจากดูภายหลัง</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">เปิดใช้งานการเล่นวิดีโอซ้ำ</string>
   <string name="morphe_do_not_remember_loop_video_title">อย่าจำการเล่นวิดีโอซ้ำ</string>

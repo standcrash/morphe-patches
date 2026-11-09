@@ -169,11 +169,7 @@ Second \"item\" text"</string>
   <string name="morphe_export_download_canceled">ஏற்றுமதி ரத்து செய்யப்பட்டது</string>
   <!-- video.voiceovertranslation.voiceOverTranslationPatch -->
   <!-- %s is dollar cost, e.g., $0.10 per 100 hours -->
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Watch later டிராக் ஹேண்டில்களை விரிவுபடுத்துங்கள்</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Watch later வீடியோக்களின் டிராக் ஹேண்டில்களை எளிதாகப் பிடிக்க முடியும்</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Watch later நீக்குதல் ஸ்நாக்பாரை மறைக்கவும்</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Watch later-லிருந்து ஒரு வீடியோ நீக்கப்பட்ட பிறகு உறுதிப்படுத்தல் காட்டப்படாது</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <!-- interaction.loop.loopVideoButtonPatch -->
   <!-- interaction.pictureinpicture.pictureinPictureButtonPatch -->

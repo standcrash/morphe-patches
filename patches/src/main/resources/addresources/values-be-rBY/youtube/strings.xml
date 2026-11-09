@@ -624,11 +624,11 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Вы выкарысталі сённяшнюю бясплатную квоту перакладу MyMemory (5 000 сімвалаў). Дадайце адрас электроннай пошты MyMemory ў наладках, каб павялічыць штодзённы ліміт да 50 000 сімвалаў, або пераключыцеся на іншы сэрвіс перакладу</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Вы выкарысталі сённяшнюю квоту перакладу MyMemory (50 000 сімвалаў). Пераключыцеся на іншы сэрвіс перакладу або паспрабуйце зноў заўтра</string>
   <string name="morphe_vot_mymemory_error">Пераклад MyMemory не ўдаўся (статус %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Пашырыць ручкі перацягвання ў спісе \"Глядзець пазней\"</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Ручкі перацягвання відэа ў спісе \"Глядзець пазней\" становяцца больш зручнымі для захопу</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Схаваць паведамленне аб выдаленні з \"Глядзець пазней\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Пасля выдалення відэа са спісу \"Глядзець пазней\" пацверджанне не паказваецца</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Пашырыць ручкі перацягвання плэйліста</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Ручкі перацягвання плэйліста становяцца зручнейшымі для захвату</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Схаваць паведомленне аб выдаленні з плэйліста</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Пасля выдалення відэа з плэйліста пацверджанне не паказваецца</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Уключыць зацыкліванне відэа</string>
   <string name="morphe_do_not_remember_loop_video_title">Не запам’яць цыклаванне відэа</string>

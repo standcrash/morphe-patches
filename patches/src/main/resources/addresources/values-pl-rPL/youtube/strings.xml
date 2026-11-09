@@ -624,11 +624,7 @@ Zgłoszenia są publiczne i podlegają weryfikacji przed dodaniem kanału do lis
   <string name="morphe_vot_mymemory_quota_message_no_email">Wykorzystano dzisiejszy darmowy limit tłumaczeń MyMemory (5000 znaków). Dodaj adres e-mail MyMemory w ustawieniach, aby zwiększyć dzienny limit do 50 000 znaków, lub zmień usługę tłumaczenia</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Wykorzystano dzisiejszy limit tłumaczeń MyMemory (50 000 znaków). Zmień usługę tłumaczenia lub spróbuj ponownie jutro</string>
   <string name="morphe_vot_mymemory_error">Tłumaczenie MyMemory nie powiodło się (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Poszerz uchwyty przeciągania w \"Do obejrzenia\"</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Uchwyty do przeciągania filmów na playliście \"Do obejrzenia\" są łatwiejsze do chwycenia</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Ukryj powiadomienie o usunięciu z \"Do obejrzenia\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Nie wyświetla potwierdzenia po usunięciu filmu z playlisty \"Do obejrzenia\"</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Włącz zapętlanie filmu</string>
   <string name="morphe_do_not_remember_loop_video_title">Nie zapamiętuj zapętlania</string>

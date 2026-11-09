@@ -624,11 +624,11 @@ Jou API-sleutel moet nooit gedeel word nie. Enigeen met toegang daartoe kan jou 
   <string name="morphe_vot_mymemory_quota_message_no_email">Jy het vandag se gratis MyMemory-vertaalquotum (5,000 karakters) gebruik. Voeg \'n MyMemory-e-pos in instellings in om die daaglikse limiet te verhoog tot 50,000 karakters, of skakel na \'n ander vertaaldienstes</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Jy het vandag se MyMemory-vertaalquotum (50,000 karakters) gebruik. Skakel na \'n ander vertaaldienstes of probeer môre weer</string>
   <string name="morphe_vot_mymemory_error">MyMemory-vertaling misluk (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Verbreed \"Kyk later\"-sleepgrepe</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Die sleepgrepe van die \"Kyk later\"-video\'s is makliker om vas te gryp</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Steek \"Kyk later\"-verwyderingssnackbar weg</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Die bevestiging word nie getoon nadat \'n video uit \"Kyk later\" verwyder is nie</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Verbreed speellys-sleehandvatsels</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Speellys-sleehandvatsels is makliker om vas te gryp</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Steek speellys-verwyderings-snackbar weg</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Die bevestiging word nie getoon nadat \'n video uit \'n speellys verwyder is nie</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Aktiveer lusvideo</string>
   <string name="morphe_do_not_remember_loop_video_title">Moenie lusvideo onthou nie</string>

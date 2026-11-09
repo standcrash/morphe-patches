@@ -625,11 +625,7 @@ API anahtarınız asla paylaşılmamalıdır. Ona erişimi olan herkes OpenRoute
   <string name="morphe_vot_mymemory_quota_message_no_email">Bugünün ücretsiz MyMemory çeviri kotasını (5.000 karakter) kullandınız. Günlük limiti 50.000 karaktere çıkarmak için ayarlarınızda bir MyMemory e-postası ekleyin veya farklı bir çeviri hizmetine geçin</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Bugünün MyMemory çeviri kotasını (50.000 karakter) kullandınız. Farklı bir çeviri hizmetine geçin veya yarın tekrar deneyin</string>
   <string name="morphe_vot_mymemory_error">MyMemory çevirisi başarısız oldu (durum %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Daha sonra izle sürükleme tutamaçlarını genişlet</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Daha sonra izle videolarının sürükleme tutamaçlarını tutması daha kolaydır</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Daha sonra izle\'den kaldırma snackbarını gizle</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Daha sonra izle\'den bir video kaldırıldığında onay bildirimi gösterilmez</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Videoyu döngüye almayı etkinleştir</string>
   <string name="morphe_do_not_remember_loop_video_title">Döngü videosunu hatırlama</string>

@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">თქვენ გამოიყენეთ MyMemory-ს დღიური უფასო თარგმნის კვოტა (5,000 სიმბოლო). დაამატეთ MyMemory-ს ელ-ფოსტა პარამეტრებში, რათა დღიური ლიმიტი 50,000 სიმბოლომდე გაიზარდოს, ან გადაერთეთ სხვა თარგმანის სერვისზე</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">თქვენ გამოიყენეთ MyMemory-ს დღიური თარგმნის კვოტა (50,000 სიმბოლო). გადაერთეთ სხვა თარგმანის სერვისზე ან სცადეთ ხელახლა ხვალ</string>
   <string name="morphe_vot_mymemory_error">MyMemory-ს თარგმნა ვერ მოხერხდა (სტატუსი %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">გააფართოეთ \"მოგვიანებით ნახვის\" გადაადგილების სახელურები</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\"მოგვიანებით ნახვის\" ვიდეოების გადაადგილების სახელურების ჩასაჭერად უფრო მარტივია</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">დამალეთ \"მოგვიანებით ნახვისგან\" წაშლის შეტყობინება</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">დასტური აღარ ჩანს მას შემდეგ, რაც ვიდეო წაშლილია \"მოგვიანებით ნახვის“ სიიდან</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">ჩართეთ ვიდეოს განმეორება</string>
   <string name="morphe_do_not_remember_loop_video_title">არ დაიმახსოვრო ვიდეოს განმეორება</string>

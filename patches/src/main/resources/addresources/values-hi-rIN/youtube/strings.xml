@@ -624,11 +624,7 @@ OpenRouter.ai खोलने के लिए यहां टैप करे�
   <string name="morphe_vot_mymemory_quota_message_no_email">आपने आज का मुफ्त MyMemory अनुवाद कोटा (5,000 वर्ण) उपयोग कर लिया है। दैनिक सीमा को 50,000 वर्णों तक बढ़ाने के लिए सेटिंग्स में एक MyMemory ईमेल जोड़ें, या किसी भिन्न अनुवाद सेवा पर स्विच करें</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">आपने आज का MyMemory अनुवाद कोटा (50,000 वर्ण) उपयोग कर लिया है। किसी भिन्न अनुवाद सेवा पर स्विच करें या कल फिर से प्रयास करें</string>
   <string name="morphe_vot_mymemory_error">MyMemory अनुवाद विफल (स्थिति %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">\'बाद में देखें\' ड्रैग हैंडल को चौड़ा करें</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">\'बाद में देखें\' वीडियो के ड्रैग हैंडल को पकड़ना अब आसान है</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">\'बाद में देखें\' हटाने वाले स्नैकबार को छिपाएं</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">\'बाद में देखें\' से वीडियो हटाने के बाद पुष्टिकरण नहीं दिखाया जाता है</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">लूप वीडियो सक्षम करें</string>
   <string name="morphe_do_not_remember_loop_video_title">लूप वीडियो याद न रखें</string>

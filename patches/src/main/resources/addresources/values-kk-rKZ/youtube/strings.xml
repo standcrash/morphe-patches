@@ -624,11 +624,7 @@ API кілтін ешқашан бөліспеңіз. Оған қолжетім�
   <string name="morphe_vot_mymemory_quota_message_no_email">Сіз бүгінгі MyMemory тегін аударма квотасын (5 000 таңба) пайдаландыңыз. Күнделікті лимитті 50 000 таңбаға дейін арттыру үшін баптауларға MyMemory электронды поштасын қосыңыз немесе басқа аударма қызметіне ауысыңыз</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Сіз бүгінгі MyMemory аударма квотасын (50 000 таңба) пайдаландыңыз. Басқа аударма қызметіне ауысыңыз немесе ертең қайта försöріңіз</string>
   <string name="morphe_vot_mymemory_error">MyMemory аудармасы сәтсіз аяқталды (мәрезі %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">«Кейінірек көру» сүйрету тұтқаларын кеңейту</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">«Кейінірек көру» бейнелерінің сүйрету тұтқаларын ұстау оңайырақ</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">«Кейінірек көру» тізімінен жою туралы snackbar-ды жасыру</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Бейне «Кейінірек көру» тізімінен жойылғаннан кейін растау көрсетілмейді</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Бейнені қайталап ойнатуды қосу</string>
   <string name="morphe_do_not_remember_loop_video_title">Бейне қайталануын есте сақтамау</string>

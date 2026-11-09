@@ -627,11 +627,13 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_vot_mymemory_quota_message_no_email">لقد استخدمت حصة الترجمة المجانية اليومية لـ MyMemory (5000 حرف). أضف بريدًا إلكترونيًا لـ MyMemory في الإعدادات لرفع الحد اليومي إلى 50000 حرف، أو قم بالتبديل إلى خدمة ترجمة مختلفة</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">لقد استخدمت حصة ترجمة MyMemory اليومية (50000 حرف). قم بالتبديل إلى خدمة ترجمة مختلفة أو حاول مرة أخرى غدًا</string>
   <string name="morphe_vot_mymemory_error">فشلت ترجمة MyMemory (الحالة %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">توسيع مقابض سحب المشاهدة لاحقًا</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">مقابض السحب لفيديوهات المشاهدة لاحقًا أسهل في الإمساك بها</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">إخفاء شريط تنبيه إزالة المشاهدة لاحقًا</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">لا يظهر التأكيد بعد إزالة الفيديو من المشاهدة لاحقًا</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">توسيع مقابض سحب قائمة التشغيل</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">أصبحت مقابض سحب قائمة التشغيل أسهل في الإمساك</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">إخفاء شريط تنبيه إزالة قائمة التشغيل</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">لا يظهر التأكيد بعد إزالة فيديو من قائمة التشغيل</string>
+  <string name="morphe_playlist_long_press_drag_title">الضغط مطولًا لإعادة ترتيب الفيديوهات في قائمة التشغيل</string>
+  <string name="morphe_playlist_long_press_drag_summary">المس واستمر في الضغط على فيديو من قائمة التشغيل الخاصة بك لسحبه إلى موضع جديد</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">تمكين تكرار الفيديو</string>
   <string name="morphe_do_not_remember_loop_video_title">لا تتذكر حالة تكرار الفيديو</string>

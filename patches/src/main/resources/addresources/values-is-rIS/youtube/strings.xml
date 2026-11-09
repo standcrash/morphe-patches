@@ -614,11 +614,7 @@ API lykillinn þinn ætti aldrei að deila. Allir með aðgang að honum geta no
   <string name="morphe_vot_mymemory_quota_message_no_email">Þú hefur notað daglegu frí þýðingatakmörkun MyMemory (5.000 stafir). Bættu við MyMemory netfangi í stillingum til að auka daglegu takmarkanirnar í 50.000 stafir, eða skiptu yfir á annan þýðingarþjónustu</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Þú hefur notað MyMemory þýðingatakmörkun dagsins (50.000 stafir). Skiptu yfir á annan þýðingarþjónustu eða reyndu aftur á morgun</string>
   <string name="morphe_vot_mymemory_error">MyMemory þýðing mistókst (staða %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Víkka draga- og sleppa-hnappi fyrir Horfa síðar</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Draga- og sleppa-hnappir fyrir myndband í Horfa síðar eru auðveldari í meðhöndlun</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Fela tilkynningu um fjalskilning frá Horfa síðar</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Staðfesting er ekki sýnd eftir að myndbandi er fjarlægt úr Horfa síðar</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Vírúð lykkjuframkvæmd myndbandsins</string>
   <string name="morphe_do_not_remember_loop_video_title">Kemur í veg fyrir að múnari útforðagildumgrunnur</string>

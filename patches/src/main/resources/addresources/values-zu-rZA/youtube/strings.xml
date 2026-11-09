@@ -624,11 +624,7 @@ Okhiye wakho we-API akufanele wabelane nakube yikuphi. Noma ubani onokufinyelela
   <string name="morphe_vot_mymemory_quota_message_no_email">Usebenzise iquota yamahhala yokuhunyushwa kwe-MyMemory yanamuhla (izinhlamvu ezi-5,000). Faka i-imeyili ye-MyMemory ezilungiselelweni ukuze unyuse umkhawulo wansuku ube izinhlamvu ezi-50,000, noma shintshele enye isevisi yokuhunyusha</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Usebenzise iquota yokuhunyushwa kwe-MyMemory yanamuhla (izinhlamvu ezi-50,000). Shintshele enye isevisi yokuhunyusha noma uzame futhi kusasa</string>
   <string name="morphe_vot_mymemory_error">Ukuhumusha kwe-MyMemory kuhleleke (isimo %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Andisa izibambiso zokuhudulisa ze-Watch later</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Izibambiso zokuhudulisa ze-Watch later kulula ukuze zibanjwe</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Fihla i-snackbar yokususa i-Watch later</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Ukuqinisekisa akubonakali ngemuva kokuba i-vidiyo isuswe ku-Watch later</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Vumela ukuphindaphinda kwevidiyo</string>
   <string name="morphe_do_not_remember_loop_video_title">Ungakhumbuli ukuphindaphinda kwevidiyo</string>

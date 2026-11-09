@@ -624,11 +624,7 @@ Cheia API nu trebuie niciodată distribuită. Oricine are acces la aceasta poate
   <string name="morphe_vot_mymemory_quota_message_no_email">Ai folosit cota gratuită de traducere MyMemory de astăzi (5.000 de caractere). Adaugă un e-mail MyMemory în setări pentru a crește limita zilnică la 50.000 de caractere sau schimbă la un alt serviciu de traducere</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Ai folosit cota de traducere MyMemory de astăzi (50.000 de caractere). Schimbă la un alt serviciu de traducere sau încearcă mâine</string>
   <string name="morphe_vot_mymemory_error">Traducerea MyMemory a eșuat (stare %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Lărgirea mânerelor de tragere pentru Vizionare mai târziu</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Mânerele de tragere ale videoclipurilor de Vizionare mai târziu sunt mai ușor de apucat</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Ascunderea notificării de eliminare din Vizionare mai târziu</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Confirmarea nu este afișată după ce un videoclip este eliminat din Vizionare mai târziu</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Activează bucla video</string>
   <string name="morphe_do_not_remember_loop_video_title">Nu-ți aminti video în buclă</string>

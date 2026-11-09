@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Искористили сте данашњу бесплатну MyMemory квоту за превод (5.000 карактера). Додајте MyMemory имејл у подешавањима да повећате дневни лимит на 50.000 карактера, или пребаците се на други сервис за превод</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Искористили сте данашњу MyMemory квоту за превод (50.000 карактера). Пребаците се на други сервис за превод или покушајте поново сутра</string>
   <string name="morphe_vot_mymemory_error">MyMemory превод није успео (статус %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Проширите ручке за превлачење у одељку Гледај касније</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Ручке за превлачење видео-записа у одељку Гледај касније су лакше за хватање</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Сакриј snackbar за уклањање из одељка Гледај касније</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Потврда се не приказује након што видео-запис буде уклоњен из одељка Гледај касније</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Омогући понављање видеа</string>
   <string name="morphe_do_not_remember_loop_video_title">Не памти управо петљу видеа</string>

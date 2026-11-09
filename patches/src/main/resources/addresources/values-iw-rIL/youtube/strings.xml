@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">השתמשת במכסת התרגום החינמית של MyMemory להיום (5,000 תווים). הוסף דוא\"ל MyMemory בהגדרות כדי להעלות את המגבלה היומית ל-50,000 תווים, או החלף לשירות תרגום אחר</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">השתמשת במכסת התרגום של MyMemory להיום (50,000 תווים). החלף לשירות תרגום אחר או נסה שוב מחר</string>
   <string name="morphe_vot_mymemory_error">תרגום MyMemory נכשל (סטטוס %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">הרחבת ידיות הגרירה של \'צפייה מאוחר יותר\'</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">קל יותר לתפוס את ידיות הגרירה של סרטוני \'צפייה מאוחר יותר\'</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">הסתרת הודעת ה-snackbar על הסרה מ\'צפייה מאוחר יותר\'</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">אישור אינו מוצג לאחר שסרטון הוסר מ\'צפייה מאוחר יותר\'</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">הפעל סרטון בלולאה</string>
   <string name="morphe_do_not_remember_loop_video_title">אל תזכור את סרטון הלולאה</string>

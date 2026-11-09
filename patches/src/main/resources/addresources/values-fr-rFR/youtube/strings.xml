@@ -624,11 +624,7 @@ Votre clé API ne doit jamais être partagée. Toute personne ayant accès à ce
   <string name="morphe_vot_mymemory_quota_message_no_email">Vous avez utilisé le quota gratuit de traduction MyMemory d\'aujourd\'hui (5,000 caractères). Ajoutez une adresse e-mail MyMemory dans les paramètres pour porter la limite quotidienne à 50,000 caractères, ou passez à un autre service de traduction</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Vous avez utilisé le quota de traduction MyMemory d\'aujourd\'hui (50,000 caractères). Passez à un autre service de traduction ou réessayez demain</string>
   <string name="morphe_vot_mymemory_error">La traduction via MyMemory a échoué (statut : %s).</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Élargir les poignées de déplacement de \'À regarder plus tard\'</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Les poignées de déplacement des vidéos de \'À regarder plus tard\' sont plus faciles à saisir</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Masquer la snackbar de suppression de \'À regarder plus tard\'</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">La confirmation ne s\'affiche pas après la suppression d\'une vidéo de \'À regarder plus tard\'</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Activer la lecture en boucle</string>
   <string name="morphe_do_not_remember_loop_video_title">Ne pas mémoriser la vidéo en boucle</string>

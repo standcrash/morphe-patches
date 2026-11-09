@@ -624,11 +624,7 @@ A API kulcsodat soha nem szabad megosztani. Bárki, akinek hozzáférése van ho
   <string name="morphe_vot_mymemory_quota_message_no_email">Kimerítette a mai ingyenes MyMemory fordítási kvótát (5000 karakter). Adjon meg egy MyMemory e-mail címet a beállításokban a napi korlát 50000 karakterre emeléséhez, vagy váltson másik fordításszolgáltatót</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Kimerítette a mai MyMemory fordítási kvótát (50000 karakter). Váltson másik fordításszolgáltatót, vagy próbálkozzon holnap</string>
   <string name="morphe_vot_mymemory_error">A MyMemory fordítása sikertelen (állapot %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Szélesítse a Később megnézem húzófogantyúkat</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">A Később megnézem videók húzófogantyúi könnyebben foghatók</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Később megnézem eltávolítási snackbar elrejtése</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">A videó Később megnézem listáról való eltávolítása után nem jelenik meg megerősítés</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Hurokismétlés engedélyezése</string>
   <string name="morphe_do_not_remember_loop_video_title">Ne emlékszik a loop videóra</string>

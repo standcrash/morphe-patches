@@ -624,11 +624,7 @@ A súa clave API nunca debe ser compartida. Calquera persoa con acceso a ela pod
   <string name="morphe_vot_mymemory_quota_message_no_email">Consumiches a cota de tradución gratuíta de MyMemory de hoxe (5.000 caracteres). Engade un correo electrónico de MyMemory na configuración para aumentar o límite diario a 50.000 caracteres, ou cambia a un servizo de tradución diferente</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Usaste a cota de tradución de MyMemory de hoxe (50.000 caracteres). Cambia a un servizo de tradución diferente ou inténtao mañá</string>
   <string name="morphe_vot_mymemory_error">A tradución de MyMemory fallou (estado %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Alargar as manillas de arrastre de Ver máis tarde</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">As manillas de arrastre dos vídeos de Ver máis tarde son máis fáciles de agarrar</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Ocultar a barra de notificación de eliminación de Ver máis tarde</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Non se mostra a confirmación despois de que un vídeo se elimine de Ver máis tarde</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Activar a repetición do vídeo</string>
   <string name="morphe_do_not_remember_loop_video_title">Non lembrar o vídeo en bucle</string>

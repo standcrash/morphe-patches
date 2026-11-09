@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Έχετε χρησιμοποιήσει το σημερινό δωρεάν ποσοστωτικό μετάφρασης MyMemory (5.000 χαρακτήρες). Προσθέστε ένα email MyMemory στις ρυθμίσεις για να αυξήσετε το ημερήσιο όριο σε 50.000 χαρακτήρες ή αλλάξτε σε μια άλλη υπηρεσία μετάφρασης</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Έχετε χρησιμοποιήσει το σημερινό ποσοστωτικό μετάφρασης MyMemory (50.000 χαρακτήρες). Αλλάξτε σε μια άλλη υπηρεσία μετάφρασης ή δοκιμάστε ξανά αύριο</string>
   <string name="morphe_vot_mymemory_error">Αποτυχία μετάφρασης MyMemory (κατάσταση %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Διεύρυνση των λαβών σύρσης της λίστας \"Δείτε αργότερα\"</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Οι λαβές σύρσης των βίντεο της λίστας \"Δείτε αργότερα\" είναι πιο εύκολες στη χρήση</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Απόκρυψη της ειδοποίησης αφαίρεσης από τη λίστα \"Δείτε αργότερα\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Η επιβεβαίωση δεν εμφανίζεται μετά την αφαίρεση ενός βίντεο από τη λίστα \"Δείτε αργότερα\"</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Αυτόματη επανάληψη βίντεο</string>
   <string name="morphe_do_not_remember_loop_video_title">Μην απομνημονεύεται η επαναλαμβανόμενη αναπαραγωγή βίντεο</string>

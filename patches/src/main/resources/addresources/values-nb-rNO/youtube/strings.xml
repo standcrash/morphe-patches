@@ -624,11 +624,7 @@ API-nøkkelen din bør aldri deles. Alle med tilgang til den kan bruke OpenRoute
   <string name="morphe_vot_mymemory_quota_message_no_email">Du har brukt dagens gratis MyMemory-oversettelseskvote (5 000 tegn). Legg til en MyMemory-e-post i innstillingene for å heve den daglige grensen til 50 000 tegn, eller bytt til en annen oversettelsestjeneste</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Du har brukt dagens MyMemory-oversettelseskvote (50 000 tegn). Bytt til en annen oversettelsestjeneste eller prøv igjen i morgen</string>
   <string name="morphe_vot_mymemory_error">MyMemory-oversettelse mislyktes (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Gjør håndtakene for å dra i \"Se senere\" bredere</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Håndtakene for å dra i \"Se senere\"-videoer er lettere å gripe</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Skjul snackbar for fjerning fra \"Se senere\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Bekreftelsen vises ikke etter at en video er fjernet fra \"Se senere\"</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Aktiver video i sløyfe</string>
   <string name="morphe_do_not_remember_loop_video_title">Husk ikke løkkevideo</string>

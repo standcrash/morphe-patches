@@ -624,11 +624,11 @@ API klíč by se nikdy neměl sdílet. Kdokoli s přístupem k němu může pou�
   <string name="morphe_vot_mymemory_quota_message_no_email">Využili jste dnešní bezplatnou kvótu překladů MyMemory (5 000 znaků). Přidejte e-mail MyMemory v nastavení a zvyšte denní limit na 50 000 znaků, nebo přepněte na jinou překladatelskou službu</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Využili jste dnešní kvótu překladů MyMemory (50 000 znaků). Přepněte na jinou překladatelskou službu nebo zkusím zítra</string>
   <string name="morphe_vot_mymemory_error">Překlad MyMemory selhal (stav %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Rozšířit úchopy pro přetahování v sekci Později</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Úchopy pro přetahování videí v sekci Později se lépe chytají</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Skrýt oznámení o odstranění z Později zhlédnout</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Po odstranění videa ze seznamu Později zhlédnout se nezobrazí potvrzení</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Rozšířit úchopky pro přetahování seznamu skladeb</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Úchopky pro přetahování seznamu skladeb se lépe chytají</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Skrýt snackbar pro odstranění ze seznamu skladeb</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Po odstranění videa ze seznamu skladeb se nezobrazí potvrzení</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Povolit smyčku videa</string>
   <string name="morphe_do_not_remember_loop_video_title">Nezapomenout přehrávání videa ve smyčce</string>

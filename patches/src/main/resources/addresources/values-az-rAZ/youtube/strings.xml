@@ -622,11 +622,7 @@ API açarınız heç vaxt paylaşılmamalıdır. Buna girişi olan hər bir kəs
   <string name="morphe_vot_mymemory_quota_message_no_email">Bugünkü pulsuz MyMemory tərcümə normasını (5.000 simvol) istifadə etmisiniz. Gündəlik limiti 50.000 simvola artırmaq üçün tənzimləmələrdə MyMemory e-poçtunu əlavə edin və ya fərqli tərcümə xidmətinə keçin</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Bugünkü MyMemory tərcümə normasını (50.000 simvol) istifadə etmisiniz. Başqa tərcümə xidmətinə keçin və ya sabah təkrar cəhd edin</string>
   <string name="morphe_vot_mymemory_error">MyMemory tərcüməsi uğursuz oldu (status %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Sonra izləyin sürükləmə tutacaqlarını genişləndir</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Sonra izləyin videolarının sürükləmə tutacaqlarını tutmaq daha asandır</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Sonra izləyindən silinmə bildiriş cizgisin gizlət</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Video \"Sonra izləyindən\" silindikdən sonra təsdiqləmə göstərilmir</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Video təkrarlamanı aktivləşdir</string>
   <string name="morphe_do_not_remember_loop_video_title">Video təkrarlanmasını xatırlamasın</string>

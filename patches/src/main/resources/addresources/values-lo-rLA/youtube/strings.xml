@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">ທ່ານໄດ້ໃຊ້ໂຄຕ້າການແປຟຣີຂອງ MyMemory ປະຈຳວັນນີ້ແລ້ວ (5,000 ຕົວອັກສອນ). ເພີ່ມອີເມວ MyMemory ໃນການຕັ້ງຄ່າເພື່ອເພີ່ມຂີດຈຳກັດປະຈຳວັນເປັນ 50,000 ຕົວອັກສອນ, ຫຼື ປ່ຽນໄປໃຊ້ບໍລິການແປພາສາອື່ນ</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">ທ່ານໄດ້ໃຊ້ໂຄຕ້າການແປ MyMemory ປະຈຳວັນນີ້ແລ້ວ (50,000 ຕົວອັກສອນ). ປ່ຽນໄປໃຊ້ບໍລິການແປພາສາອື່ນ ຫຼື ລອງໃໝ່ໃນມື້ອື່ນ</string>
   <string name="morphe_vot_mymemory_error">ການແປ MyMemory ລົ້ມເຫຼວ (ສະຖານະ %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">ຂະຫຍາຍມືຈັບສຳລັບການລາກໃນລາຍການ \"ເບິ່ງພາຍຫຼັງ\"</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">ມືຈັບສຳລັບການລາກຂອງວິດີໂອໃນລາຍການ \"ເບິ່ງພາຍຫຼັງ\" ສາມາດຈັບໄດ້ງ່າຍຂຶ້ນ</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">ເຊື່ອງແຖບແຈ້ງເຕືອນການລຶບອອກຈາກລາຍການ \"ເບິ່ງພາຍຫຼັງ\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">ຈະບໍ່ມີການສະແດງການຢືນຢັນຫຼັງຈາກທີ່ວິດີໂອຖືກລຶບອອກຈາກລາຍການ \"ເບິ່ງພາຍຫຼັງ\"</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">ເປີດໃຊ້ການຫຼິບວິດີໂອຊ້ຳ</string>
   <string name="morphe_do_not_remember_loop_video_title">ບໍ່ຈົດຈຳການວົນຊ້ຳວິດີໂອ</string>

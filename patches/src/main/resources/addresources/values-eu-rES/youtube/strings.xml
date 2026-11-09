@@ -625,11 +625,11 @@ Zure API gakoa inoiz ez dela partekat knockout. Hura duen edozeinek zure OpenRou
   <string name="morphe_vot_mymemory_quota_message_no_email">Gaurko MyMemory-ren doako itzulpen kuotaa (5.000 carattere) erabili duzu. Ezugarapenetan MyMemory-ren posta elektroniko bat gehitu eguneroko limitea 50.000 karakterera igotzeko, edo itzulpen zerbitzu beste bat choose egin</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Gaurko MyMemory-ren itzulpen kuotaa (50.000 carattere) erabili duzu. Itzulpen zerbitzu beste batean aldatu edo bihar saiatu berriz</string>
   <string name="morphe_vot_mymemory_error">MyMemory itzulpena huts egin du (egoera %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Gero ikusikoen arrastatzeko saihestekoak zabaltu</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Gero ikusikoen bideoen arrastatzeko saihestekoak eramateko errazagoak dira</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Gero ikusikoen ezabapen-jakinarazupena ezkutatu</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Bideo bat Gero ikusikoen zerrendatik kendu ondoren, konfirmazioa ez da erakutsiko</string>
+  <!-- interaction.playlist.playlistPatch -->
+  <string name="morphe_playlist_wide_drag_handles_title">Luzeitu zerrendaren arrastatze-manubaleak</string>
+  <string name="morphe_playlist_wide_drag_handles_summary">Zerrendaren arrastatze-manubaleak errazago dira hartzeko</string>
+  <string name="morphe_playlist_hide_removal_snackbar_title">Ezkutatu zerrendatik kentzeko snackbar-ra</string>
+  <string name="morphe_playlist_hide_removal_snackbar_summary">Bideo bat zerrendatik kendu ondoren, konfirmazioa ez da erakutsiko</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Gaitu bideo-buclesa</string>
   <string name="morphe_do_not_remember_loop_video_title">Ez gogoratu bideo-bucles</string>

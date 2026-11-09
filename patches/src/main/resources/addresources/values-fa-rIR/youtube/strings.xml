@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">سهمیهٔ رایگان ترجمهٔ MyMemory امروز را مصرف کرده‌اید (۵۰۰۰ نویسه). برای افزایش محدودیت روزانه به ۵۰۰۰۰ نویسه، یک ایمیل MyMemory در تنظیمات اضافه کنید یا به سرویس ترجمهٔ دیگری تغییر دهید</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">سهمیهٔ ترجمهٔ MyMemory امروز را مصرف کرده‌اید (۵۰۰۰۰ نویسه). به سرویس ترجمهٔ دیگری تغییر دهید یا فردا دوباره تلاش کنید</string>
   <string name="morphe_vot_mymemory_error">ترجمهٔ MyMemory ناموفق بود (وضعیت %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">عریض‌تر کردن دستگیره‌های کشیدن «بعداً می‌بینم»</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">دستگیره‌های کشیدن ویدیوهای \"بعداً می‌بینم\" راحت‌تر قابل گرفتن هستند</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">مخفی کردن اسنک‌بار حذف از \"بعداً می‌بینم\"</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">پس از حذف یک ویدیو از \"بعداً می‌بینم\"، تاییدیه نمایش داده نمی‌شود</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">فعال‌کردن تکرار ویدئو</string>
   <string name="morphe_do_not_remember_loop_video_title">به‌خاطر نسپردن تکرار ویدئو</string>

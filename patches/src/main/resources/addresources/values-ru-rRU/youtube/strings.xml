@@ -624,11 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_vot_mymemory_quota_message_no_email">Вы использовали сегодняшнюю бесплатную квоту перевода MyMemory (5000 символов). Добавьте адрес электронной почты MyMemory в настройках, чтобы увеличить ежедневный лимит до 50 000 символов, или переключитесь на другую службу перевода</string>
   <string name="morphe_vot_mymemory_quota_message_with_email">Вы использовали сегодняшнюю квоту перевода MyMemory (50 000 символов). Переключитесь на другую службу перевода или попробуйте снова завтра</string>
   <string name="morphe_vot_mymemory_error">Сбой перевода MyMemory (статус %s)</string>
-  <!-- interaction.watchlater.watchLaterPatch -->
-  <string name="morphe_watch_later_wide_drag_handles_title">Расширить маркеры перетаскивания в «Смотреть позже»</string>
-  <string name="morphe_watch_later_wide_drag_handles_summary">Маркеры перетаскивания видео в списке «Смотреть позже» становится легче захватить</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_title">Скрыть уведомление об удалении из «Смотреть позже»</string>
-  <string name="morphe_watch_later_hide_removal_snackbar_summary">Подтверждение не отображается после удаления видео из списка «Смотреть позже»</string>
+  <!-- interaction.playlist.playlistPatch -->
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Включить повтор воспроизведения</string>
   <string name="morphe_do_not_remember_loop_video_title">Не запоминать зацикливание видео</string>
